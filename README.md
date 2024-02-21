@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Jael Orajay!</h1>
+![logo](header.jpg)
+<h2 align="left">Hi , I'm Jael Orajay!</h2>
 <h3 align="center">I'm a recent graduate with a Bachelor of Science in Information Technology</h3>
 
 
