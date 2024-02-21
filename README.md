@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Jael Orajay!</h1>
 <h3 align="center">I'm a recent graduate with a Bachelor of Science in Information Technology</h3>
 
-<img align = "right" alt="coding" width ="400" src ="coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaelorajay&label=Profile%20views&color=0e75b6&style=flat" alt="jaelorajay" /> </p>
 
